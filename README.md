@@ -1,6 +1,6 @@
 # hippo-solrbulk-servlet
 
-A simple servlet for use with the CMS for searching the Hippo/JCR and sending records to Solr.
+A simple servlet for use with the CMS for searching the Hippo/JCR and sending records to Camel for Solr indexing.
 
 ## Introduction
 
