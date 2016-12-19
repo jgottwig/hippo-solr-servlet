@@ -85,6 +85,5 @@ The dependency for the servlet is:
 where [VERSION] is the version number of the servlet to download.
 
 ## License
-
-The Solr servlet was created by copying and rewriting the Repository servlet available from Hippo. As such is is available under the Apache License v2.0. See [LICENSE]() for more information.
-
+ 
+See the [LICENSE](LICENSE.md) file for license rights and limitations (Apache 2.0).
